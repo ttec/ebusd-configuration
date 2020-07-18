@@ -1,3 +1,3 @@
 # type (r[1-9];w;u),circuit,name,[comment],[QQ],ZZ,PBSB,[ID],field1,part (m/s),datatypes/templates,divider/values,unit,comment,field1,part (m/s),datatypes/templates,divider/values,unit,comment
 *r,vwz,,,,,B512,,,,,,,,,,,,,
-r,vwz,Status01,,,,,0f0201,WW_Speicher_Temp,,D2C,,,Könnte die Steichertemperatur sein,,,,,,
+r,vwz,Status01,,,,,0f0201,WW_Speicher_Temp,,D2C,,,Könnte die Steichertemperatur sein,,,IGN:5,,,
